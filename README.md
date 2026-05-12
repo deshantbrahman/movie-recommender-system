@@ -1,22 +1,20 @@
-# 🎬 Movie Recommender System
+# Movie Recommender System
 
-## 📌 Overview
+## Overview
 The Movie Recommender System is a Machine Learning based application that recommends movies similar to the movie selected by the user. The system uses content-based filtering techniques to find similarities between movies and generate accurate recommendations.
 
 This project helps users discover movies based on genres, keywords, cast, crew, and other movie metadata.
 
 ---
 
-## 🚀 Features
+## Features
 - Recommend similar movies instantly
 - Content-based movie recommendation
 - Interactive and user-friendly interface
 - Fast recommendation generation
-- Machine Learning powered system
+- Machine Learning powered syst
 
----
-
-## 🛠️ Technologies Used
+##Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -26,7 +24,7 @@ This project helps users discover movies based on genres, keywords, cast, crew, 
 
 ---
 
-## 📂 Dataset
+## Dataset
 The project uses movie metadata datasets containing:
 - Movie titles
 - Genres
@@ -39,7 +37,7 @@ The recommendation system calculates similarity between movies using vectorizati
 
 ---
 
-## ⚙️ Machine Learning Concepts Used
+##Machine Learning Concepts Used
 - Data Preprocessing
 - Feature Engineering
 - Text Vectorization
@@ -48,7 +46,7 @@ The recommendation system calculates similarity between movies using vectorizati
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 movie-recommender-system/
@@ -63,7 +61,7 @@ movie-recommender-system/
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Step 1: Clone Repository
 
@@ -91,12 +89,12 @@ streamlit run app.py
 
 ---
 
-## 📸 Output
+##Output
 The system recommends movies similar to the selected movie based on movie content and similarity scores.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Add collaborative filtering
 - Improve recommendation accuracy
 - Add movie posters and ratings
@@ -105,7 +103,7 @@ The system recommends movies similar to the selected movie based on movie conten
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 Through this project, the following concepts were learned:
 - Machine Learning workflow
 - Recommendation systems
@@ -115,10 +113,5 @@ Through this project, the following concepts were learned:
 
 ---
 
-## 👨‍💻 Author
-**Deshant Brahman**
-
----
-
-## ⭐ GitHub
-If you like this project, give it a ⭐ on GitHub.
+## Author
+**Deshant Brahman*
